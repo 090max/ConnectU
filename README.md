@@ -1,5 +1,5 @@
 
-[![Contributors]][https://github.com/090max/"]
+[![Contributors]][https://github.com/090max/]
 [![MIT License][license-shield]][https://github.com/090max/ConnectU/blob/master/LICENSE]
 
 
