@@ -1,8 +1,4 @@
 
-<p align="center">
-    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://github.com/090max/ConnectU/graphs/contributors" /></a>
-  </p>
 
 <!-- PROJECT LOGO -->
 <br />
